@@ -1,3 +1,19 @@
 h1 {
   text-align: center;
 }
+
+li {
+  font-size: 20px;
+}
+
+.first {
+  color: red;
+}
+
+.second {
+  color: green;
+}
+
+.third {
+  color: blue;
+}
